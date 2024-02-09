@@ -38,6 +38,3 @@ def printMatrizGusano(a):
         return 0
 a = opMa2Vec()
 printMatrizGusano(a)
-
-cambio
-
